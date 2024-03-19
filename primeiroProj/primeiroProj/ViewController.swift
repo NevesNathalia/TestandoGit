@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // Adicionei uma label
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Testando e praticando")

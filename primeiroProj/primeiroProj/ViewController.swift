@@ -12,6 +12,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Testando e praticando")
+        
+        var nome = "Nathália"
+        var sobrenome = "Neves"
+        printContent("Olá, eu sou a \(nome) \(sobrenome)")
     }
 
 
